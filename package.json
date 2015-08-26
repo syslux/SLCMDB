@@ -1,0 +1,22 @@
+{
+  "name": "slcmdb",
+  "version": "1.0.0",
+  "description": "The commandline browser for Sinister.ly.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syslux/SLCMDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syslux/SLCMDB/issues"
+  },
+  "homepage": "https://github.com/syslux/SLCMDB#readme",
+  "dependencies": {
+    "request": "^2.61.0"
+  }
+}
